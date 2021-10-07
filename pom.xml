@@ -14,7 +14,7 @@
 	<name>CheckFreeGames</name>
 	<description>Telegram bot for check free computer games</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>1.16</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
